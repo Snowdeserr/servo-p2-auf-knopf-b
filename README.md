@@ -48,3 +48,11 @@ Um dieses Repository in MakeCode zu bearbeiten.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+
+
+
+##Stecken // Löten
+![image](https://github.com/Snowdeserr/servo-p2-auf-knopf-b/assets/138176996/d7687a37-006f-4ff4-a964-c1c524744cdd)
+
